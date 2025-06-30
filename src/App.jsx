@@ -5,7 +5,7 @@ import CoursesPage from "./pages/CoursesPage";
 import ContactPage from "./pages/ContactPage";
 import AdmissionPage from "./pages/AdmissionPage";
 import './styles/Pages.css'
-import ChatbotComponent from "./components/chatbot/ChatbotComponents";
+import ChatbotComponent from "./components/Chatbot/ChatbotComponents";
 import NotFoundPage from "./pages/NotFoundPage";
 import '../src/App.css'
 import { useState } from "react";
